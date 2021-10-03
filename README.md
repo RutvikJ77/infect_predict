@@ -13,11 +13,12 @@ Using meta labels, such as cumulative case counts and the total vaccinated we go
 
 Meta features included the infected_unvaccinated infected_vaccinated total_vaccinated days_increasing cumulative_cases.
 
-Models generated.
-Random Forest algorithm.
-LSTM with meta
-GRU with meta
-CNN with meta
+### Models generated:
+
+- Random Forest algorithm.
+- LSTM with meta - MSE - 3650
+- GRU with meta - MSE - 3575
+- CNN with meta - MSE - 3599
 
 ### Usage
 `pip install -r requirements.txt`
