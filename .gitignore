@@ -1,0 +1,6 @@
+test.ipynb
+.DS_Store
+.eggs
+.ipynb_checkpoints
+.pytest_cache
+infect_predict.egg-info
