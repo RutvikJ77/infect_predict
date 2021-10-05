@@ -23,7 +23,7 @@ Meta features included the infected_unvaccinated infected_vaccinated total_vacci
 ### Usage
 `pip install -r requirements.txt`
 
-Once completed, type
+Once installation is completed enter:
 
 ```
 from infect_predict.pipeline.train import model_prediction
